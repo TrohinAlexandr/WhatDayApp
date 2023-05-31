@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WhatDayApp</string>
+    <string name="authorization">Авторизация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="login_button">ВОЙТИ</string>
+    <string name="creator">Трохин Александр РИБО-01-21</string>
+    <string name="change_date">Изиенить дату</string>
+    <string name="today_holidays">Праздники сегодня</string>
+    <string name="month">Месяц:</string>
+    <string name="day">Число:</string>
+    <string name="day_hint">Число</string>
+    <string name="button_change">ВЫБРАТЬ</string>
+    <string name="share">Поделиться</string>
+    <string-array name="months">
+        <item>ЯНВАРЬ</item>
+        <item>ФЕВРАЛЬ</item>
+        <item>МАРТ</item>
+        <item>АПРЕЛЬ</item>
+        <item>МАЙ</item>
+        <item>ИЮНЬ</item>
+        <item>ИЮЛЬ</item>
+        <item>АВГУСТ</item>
+        <item>СЕНТЯБРЬ</item>
+        <item>ОКТЯБРЬ</item>
+        <item>НОЯБРЬ</item>
+        <item>ДЕКАБРЬ</item>
+    </string-array>
+</resources>
